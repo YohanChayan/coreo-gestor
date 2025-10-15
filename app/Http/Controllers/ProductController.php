@@ -10,7 +10,7 @@ class ProductController extends Controller
     // Por hacer
     public function index()
     {
-        $index = 1;
+        $index = 2;
         // $products = Product::get();
         // return view('products.index', compact('products'));
     }
