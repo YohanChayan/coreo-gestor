@@ -7,10 +7,10 @@ use App\Models\Product;
 
 class ProductController extends Controller
 {
-    
     // Por hacer
     public function index()
     {
+        $index = 1;
         // $products = Product::get();
         // return view('products.index', compact('products'));
     }
